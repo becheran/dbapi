@@ -1,2 +1,3 @@
 # dbapi
-Golang API wrapper for Deutsche Bahn (DB) 
+
+Golang API wrapper for Deutsche Bahn (DB)
